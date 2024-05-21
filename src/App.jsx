@@ -7,8 +7,8 @@ function App() {
 
   return (
     <>
-      <h1>deep lukhi</h1>
-        
+      <h1>deep lukhi ha </h1>
+
     </>
   )
 }
